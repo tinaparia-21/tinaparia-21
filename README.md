@@ -14,7 +14,7 @@ An Information Technology student passionate about **Data Science** and **Data A
 ---
 
 ### ☁️ Certifications & Badges
-* 🏆 **AWS Certified Cloud Practitioner**
+* 🎮 **AWS Cloud Quest: Cloud Practitioner**
 * 🤖 **AWS Cloud Quest: Generative AI Practitioner**
 * 🌐 **Introduction to Data Science** (Cisco)
 * 🎓 [View My Verified Badges on Credly](https://www.credly.com/users/223_tina_paria/badges)
@@ -23,5 +23,6 @@ An Information Technology student passionate about **Data Science** and **Data A
 
 ### 🔗 Connect With Me
 
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/tina-paria-9b82712ba)
 * 📊 **Kaggle:** [View My Profile](https://www.kaggle.com/tinaparia)
 * 💻 **HackerRank:** [Practice Profiles](https://www.hackerrank.com/profile/tinaparia6)
